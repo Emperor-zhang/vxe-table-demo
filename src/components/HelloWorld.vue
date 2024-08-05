@@ -16,7 +16,6 @@ export default {
         headerAlign: "center",
         height: 300,
         align: "left",
-        scrollY: { enabled: true },
         keyboardConfig: {
           isDel: true,
           isEnter: true,
